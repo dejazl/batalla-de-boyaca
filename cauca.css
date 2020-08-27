@@ -1,0 +1,61 @@
+body
+{
+
+  font-family:courier,arial,helvética;
+	background-color: lightgoldenrodyellow;
+}
+
+.uno
+{
+   border: black 1em red;  
+  border-radius: 2em;
+   position: absolute;
+   top: 22%;
+   left: 27%;
+	background-color: red;
+}
+.dos
+{
+     border: black 1em red;  
+  border-radius: 2em;
+    position: absolute;
+    top: 22%;
+    left: 62%;
+	background-color: green;
+}
+.tres
+{
+
+ border: black 1em red;  
+  border-radius: 2em;
+   position: absolute;
+   top: 22%;
+   left: 72%;
+	background-color: blue;
+}
+.cuatro
+{
+   border: black 1em red;  
+  border-radius: 2em;
+
+   position: absolute;
+   top: 48%;
+   left: 50%;
+	background-color: yellow;
+}
+.claro
+{ position: absolute;
+ top: 38%;
+ left: 78%;
+
+
+}
+.movistar
+{
+
+position: absolute;
+ top: 36%;
+ left: 2.5%;
+
+}
+
